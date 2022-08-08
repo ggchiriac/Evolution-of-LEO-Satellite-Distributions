@@ -3,4 +3,4 @@ Our team took 3rd Place in the "Catch a Star" astrophysics research contest, org
 
 Making use of Space-Track's database of 73k satellites in orbit, we studied how Low Earth Orbit Satellite position probabilities will evolve over time due to friction, gravitational effects, and radiation. 
 
-![DO](catch-a-star-logo.jpeg?style=centerme raw=true "Title")
+![DO](catch-a-star-logo.jpeg?style=centerme, raw=true "Title")
